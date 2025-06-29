@@ -24,6 +24,8 @@ config.window_padding = {
     top    = 5,
     bottom = 5,
 }
+
+-- TAB BAR
 config.use_fancy_tab_bar = false
 config.tab_bar_at_bottom = false
 config.hide_tab_bar_if_only_one_tab = true
@@ -81,5 +83,8 @@ config.keys = {
 
 -- RENDERING 
 config.enable_wayland = false
+
+-- OTHER
+config.default_prog = { 'bash' }
 
 return config
