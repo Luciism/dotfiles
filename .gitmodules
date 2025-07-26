@@ -1,0 +1,6 @@
+[submodule "nvim"]
+	path = nvim
+	url = git@github.com:Luciism/nvim.git
+[submodule "tmux"]
+	path = tmux
+	url = git@github.com:Luciism/tmux.git
