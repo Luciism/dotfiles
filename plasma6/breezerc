@@ -1,0 +1,11 @@
+[Common]
+OutlineIntensity=OutlineOff
+ShadowSize=ShadowNone
+
+[Windeco Exception 0]
+BorderSize=6
+Enabled=true
+ExceptionPattern=.*
+ExceptionType=0
+HideTitleBar=true
+Mask=16

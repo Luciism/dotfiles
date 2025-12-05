@@ -1,0 +1,15 @@
+[Annotations]
+annotationToolType=6
+freehandStrokeWidth=14
+rectangleFillColor=0,0,0
+
+[GuiConfig]
+captureMode=0
+
+[ImageSave]
+lastImageSaveAsLocation=file:///home/lucism/Downloads/Screenshot_20250516_002332.png
+lastImageSaveLocation=file:///home/lucism/Pictures/Screenshots/Screenshot_20250705_170518.png
+translatedScreenshotsFolder=Screenshots
+
+[VideoSave]
+translatedScreencastsFolder=Screencasts

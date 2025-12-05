@@ -1,0 +1,42 @@
+[General]
+LastUsedVersion=210800
+SideBarPage=operations
+ThumbnailBarIsVisible=true
+
+[ImageView]
+ThumbnailSplitterSizes=869,250
+
+[MainWindow]
+MenuBar=Disabled
+
+[Phonon::AudioOutput]
+Gwenview_Volume=0.32
+
+[Recent Files]
+File1[$e]=$HOME/Pictures/Webcam/2025-06-13-060955.jpg
+File10[$e]=/mnt/ssd/Quick Access/Videos/ReplayMod/Island Timelapse Renders/Clip 45.mp4
+File2[$e]=$HOME/Pictures/Webcam/2025-08-25-222302.jpg
+File3[$e]=$HOME/Pictures/Webcam/2025-08-25-222315.jpg
+File4[$e]=$HOME/Pictures/Webcam/2025-08-25-222326.jpg
+File5[$e]=$HOME/Pictures/Webcam/2025-10-01-135402.jpg
+File6[$e]=$HOME/Pictures/Webcam/2025-10-01-135427.jpg
+File7[$e]=$HOME/programming/utilities/merge_fonts/output.png
+File8[$e]=mtp:/BISON/Internal shared storage/DCIM/Camera/IMG_20251130_085323_084.jpg
+File9[$e]=mtp:/BISON/Internal shared storage/DCIM/Camera/IMG_20251129_234216_159.jpg
+Name1[$e]=2025-06-13-060955.jpg
+Name10[$e]=Clip 45.mp4
+Name2[$e]=2025-08-25-222302.jpg
+Name3[$e]=2025-08-25-222315.jpg
+Name4[$e]=2025-08-25-222326.jpg
+Name5[$e]=2025-10-01-135402.jpg
+Name6[$e]=2025-10-01-135427.jpg
+Name7[$e]=output.png
+Name8[$e]=IMG_20251130_085323_084.jpg
+Name9[$e]=IMG_20251129_234216_159.jpg
+
+[SideBar]
+InformationSplitterSizes=220,255
+SideBarSplitterSizes=244,1981
+
+[ThumbnailView]
+AutoplayVideos=true

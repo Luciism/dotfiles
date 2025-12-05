@@ -1,0 +1,71 @@
+[004d790a-c46d-41dd-9ff4-454e9cc2428e]
+Description=Window settings for firefox-devedition
+desktops=0ba53c8c-ff71-47f1-80cc-83ef5ed07212
+desktopsrule=3
+title=KDE background symlink location — Firefox Developer Edition
+titlematch=1
+types=1
+wmclass=firefox-devedition
+wmclassmatch=1
+
+[0275263b-63e7-4ee1-8dad-5c60ed4da6c1]
+Description=Window settings for org.wezfurlong.wezterm
+clientmachine=localhost
+desktops=0ba53c8c-ff71-47f1-80cc-83ef5ed07212
+desktopsrule=3
+title=lucism@desktop: ~
+titlematch=1
+types=1
+wmclass=org.wezfurlong.wezterm
+wmclassmatch=1
+
+[0be6ad25-0299-48ac-af00-7810d95699a4]
+Description=Window settings for com.github.wwmm.easyeffects
+desktops=36882d9c-6363-484f-85ce-93c44bd875c0
+desktopsrule=3
+title=Easy Effects
+types=1
+wmclass=easyeffects com.github.wwmm.easyeffects
+wmclasscomplete=true
+wmclassmatch=1
+
+[1ada066a-70ad-4a32-a85d-8634f24e230f]
+Description=Window settings for vesktop
+clientmachine=localhost
+desktops=36882d9c-6363-484f-85ce-93c44bd875c0
+desktopsrule=3
+title=Discord | Friends
+types=1
+windowrole=browser-window
+windowrolematch=1
+wmclass=vesktop
+wmclassmatch=1
+
+[1cf3ccab-5c2f-4032-b7c8-182ef933101d]
+Description=Window settings for Spotify
+clientmachine=localhost
+desktops=36882d9c-6363-484f-85ce-93c44bd875c0
+desktopsrule=3
+title=Spotify Free
+types=1
+windowrole=spotify
+windowrolematch=1
+wmclass=spotify Spotify
+wmclasscomplete=true
+wmclassmatch=1
+
+[General]
+count=6
+rules=0275263b-63e7-4ee1-8dad-5c60ed4da6c1,004d790a-c46d-41dd-9ff4-454e9cc2428e,0be6ad25-0299-48ac-af00-7810d95699a4,1cf3ccab-5c2f-4032-b7c8-182ef933101d,ba5d2106-1b1b-4c37-9279-225ed4c77232,1ada066a-70ad-4a32-a85d-8634f24e230f
+
+[ba5d2106-1b1b-4c37-9279-225ed4c77232]
+Description=Window settings for discord
+clientmachine=localhost
+desktops=36882d9c-6363-484f-85ce-93c44bd875c0
+desktopsrule=3
+title=- Discord
+types=1
+windowrole=browser-window
+windowrolematch=1
+wmclass=discord
+wmclassmatch=1

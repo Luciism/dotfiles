@@ -1,0 +1,7 @@
+[Libinput][7805][11520][ROCCAT ROCCAT Kain 100]
+PointerAcceleration=-0.300
+PointerAccelerationProfile=1
+
+[Mouse]
+X11LibInputXAccelProfileFlat=true
+cursorTheme=breeze_cursors

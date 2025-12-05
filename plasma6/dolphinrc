@@ -1,0 +1,31 @@
+[ContextMenu]
+ShowAddToPlaces=false
+
+[ExtractDialog]
+2 screens: Height=626
+2 screens: Width=1395
+DirHistory[$e]=/mnt/ssd/Backups/statalytics/,$HOME/programming/projects/islestats/
+
+[General]
+DoubleClickViewAction=show_hidden_files
+RememberOpenedTabs=false
+ShowFullPath=true
+ShowFullPathInTitlebar=true
+Version=202
+ViewPropsTimestamp=2025,3,14,21,10,46.667
+
+[IconsMode]
+PreviewSize=80
+
+[InformationPanel]
+dateFormat=ShortFormat
+
+[KFileDialog Settings]
+Places Icons Auto-resize=false
+Places Icons Static Size=22
+
+[MainWindow]
+MenuBar=Disabled
+
+[PreviewSettings]
+Plugins=appimagethumbnail,audiothumbnail,blenderthumbnail,comicbookthumbnail,cursorthumbnail,djvuthumbnail,ebookthumbnail,exrthumbnail,directorythumbnail,fontthumbnail,imagethumbnail,jpegthumbnail,kraorathumbnail,windowsexethumbnail,windowsimagethumbnail,mobithumbnail,opendocumentthumbnail,gsthumbnail,rawthumbnail,svgthumbnail,ffmpegthumbs

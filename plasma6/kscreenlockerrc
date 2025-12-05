@@ -1,0 +1,7 @@
+[Daemon]
+Timeout=15
+
+[Greeter][Wallpaper][org.kde.image][General]
+Image=/mnt/ssd/Quick Access/Pictures/Wallpapers/Purple Aesthetic/Purple Aesthetic 1 Scaled.png
+PreviewImage=/mnt/ssd/Quick Access/Pictures/Wallpapers/Purple Aesthetic/Purple Aesthetic 1 Scaled.png
+SlidePaths=/nix/store/vdxndg4154b9r564f4k3spj70l2g2l1f-breeze-6.2.5/share/wallpapers/,/run/current-system/sw/share/wallpapers/
