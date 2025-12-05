@@ -1,0 +1,24 @@
+[Desktop Entry]
+Actions=new-empty-window
+Categories=Utility;TextEditor;Development;IDE
+Comment=Code Editing. Redefined.
+Exec=code %F
+GenericName=Text Editor
+Icon=/mnt/ssd/Quick Access/Pictures/Icons/Lavender/ICO/vscode.ico
+Keywords=vscode
+Name=Visual Studio Code
+NoDisplay=false
+Path=
+StartupNotify=true
+StartupWMClass=Code
+Terminal=false
+TerminalOptions=
+Type=Application
+Version=1.4
+X-KDE-SubstituteUID=false
+X-KDE-Username=
+
+[Desktop Action new-empty-window]
+Exec=code --new-window %F
+Icon=vscode
+Name=New Empty Window

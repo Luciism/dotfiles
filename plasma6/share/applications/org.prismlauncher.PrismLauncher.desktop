@@ -1,0 +1,18 @@
+[Desktop Entry]
+Categories=Game;ActionGame;AdventureGame;Simulation;
+Comment=Discover, manage, and play Minecraft instances
+Exec=prismlauncher %U
+Icon=/mnt/ssd/Quick Access/Pictures/Icons/Lavender/ICO/minecraft1.ico
+Keywords=game;minecraft;mc;
+MimeType=application/zip;application/x-modrinth-modpack+zip;x-scheme-handler/curseforge;x-scheme-handler/prismlauncher;
+Name=Prism Launcher
+NoDisplay=false
+Path=
+StartupNotify=true
+StartupWMClass=PrismLauncher
+Terminal=false
+TerminalOptions=
+Type=Application
+Version=1.0
+X-KDE-SubstituteUID=false
+X-KDE-Username=

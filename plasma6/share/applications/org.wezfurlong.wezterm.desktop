@@ -1,0 +1,16 @@
+[Desktop Entry]
+Categories=System;TerminalEmulator;Utility
+Comment=Wez's Terminal Emulator
+Exec=wezterm start --cwd .
+Icon=/mnt/ssd/Quick Access/Pictures/Icons/Lavender/ICO/wezterm.ico
+MimeType=x-scheme-handler/ssh
+Name=WezTerm
+NoDisplay=false
+Path=
+StartupNotify=true
+Terminal=false
+TerminalOptions=
+Type=Application
+Version=1.4
+X-KDE-SubstituteUID=false
+X-KDE-Username=

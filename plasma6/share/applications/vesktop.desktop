@@ -1,0 +1,19 @@
+[Desktop Entry]
+Categories=Network;InstantMessaging;Chat
+Comment=
+Exec=vesktop %U
+GenericName=Internet Messenger
+Icon=/mnt/ssd/Quick Access/Pictures/Icons/Lavender/ICO/discord.ico
+Keywords=discord;vencord;electron;chat
+MimeType=x-scheme-handler/discord;
+Name=Vesktop
+NoDisplay=false
+Path=
+StartupNotify=true
+StartupWMClass=Vesktop
+Terminal=false
+TerminalOptions=
+Type=Application
+Version=1.4
+X-KDE-SubstituteUID=false
+X-KDE-Username=

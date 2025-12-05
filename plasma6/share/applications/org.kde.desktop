@@ -1,0 +1,14 @@
+[Desktop Entry]
+Comment=
+Exec=dolphin
+GenericName=File Manager
+Icon=/mnt/ssd/Quick Access/Documents/Icons/Custom/Purple/files.ico
+Name=Dolphin
+NoDisplay=false
+Path=
+StartupNotify=true
+Terminal=false
+TerminalOptions=
+Type=Application
+X-KDE-SubstituteUID=false
+X-KDE-Username=

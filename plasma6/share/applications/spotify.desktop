@@ -1,0 +1,18 @@
+[Desktop Entry]
+Categories=Audio;Music;Player;AudioVideo;
+Comment=
+Exec=spotify %U
+GenericName=Music Player
+Icon=/mnt/ssd/Quick Access/Pictures/Icons/Lavender/ICO/spotify.ico
+MimeType=x-scheme-handler/spotify;
+Name=Spotify
+NoDisplay=false
+Path=
+StartupNotify=true
+StartupWMClass=spotify
+Terminal=false
+TerminalOptions=
+TryExec=spotify
+Type=Application
+X-KDE-SubstituteUID=false
+X-KDE-Username=

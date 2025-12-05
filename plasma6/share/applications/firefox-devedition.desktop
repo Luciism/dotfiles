@@ -1,0 +1,31 @@
+[Desktop Entry]
+Actions=new-private-window;new-window;profile-manager-window
+Categories=Network;WebBrowser
+Comment=
+Exec=firefox-devedition --name firefox-devedition %U
+GenericName=Web Browser
+Icon=/mnt/ssd/Quick Access/Pictures/Icons/Lavender/ICO/firefox.ico
+MimeType=text/html;text/xml;application/xhtml+xml;application/vnd.mozilla.xul+xml;x-scheme-handler/http;x-scheme-handler/https
+Name=Firefox Developer Edition
+NoDisplay=false
+Path=
+StartupNotify=true
+StartupWMClass=firefox-devedition
+Terminal=false
+TerminalOptions=
+Type=Application
+Version=1.4
+X-KDE-SubstituteUID=false
+X-KDE-Username=
+
+[Desktop Action new-private-window]
+Exec=firefox-devedition --private-window %U
+Name=New Private Window
+
+[Desktop Action new-window]
+Exec=firefox-devedition --new-window %U
+Name=New Window
+
+[Desktop Action profile-manager-window]
+Exec=firefox-devedition --ProfileManager
+Name=Profile Manager
